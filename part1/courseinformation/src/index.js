@@ -49,7 +49,7 @@ const App = () => {
       <Content inputPart={part2} inputExercises={exercises2} />
       <Content inputPart={part3} inputExercises={exercises3} />
       <Total inputExercises1={exercises1} inputExercises2={exercises2} inputExercises3={exercises3}/>
-    </div>>
+    </div>
   )
 }
 
